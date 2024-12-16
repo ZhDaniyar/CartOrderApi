@@ -1,0 +1,21 @@
+# Ignore build output
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.vcxproj.user
+.vscode/
+.vs/
+
+# Ignore temporary files
+*.log
+*.tmp
+*.cache
+
+# Ignore dependencies for Node.js if used
+node_modules/
+
+# Ignore IDE config
+.idea/
